@@ -1,6 +1,6 @@
 # Hello there 🤯
 
-* Currently working for [claroRD](https://www.claro.com.do/) as a Quality Assurance Engineer
+* Currently working for [claroRD](https://www.claro.com.do/) as a Software Engineer
 
 ## Skills
 
